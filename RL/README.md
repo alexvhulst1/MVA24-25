@@ -1,0 +1,1 @@
+This folder is on the course given by Emmanuel Rachelson, where two classes are also given by Claire Vernade. This folder will contain two things: the assignment on bandits given by Claire Vernade, as well as the final project on finding optimal policy for HIV patients.
